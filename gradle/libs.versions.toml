@@ -11,6 +11,7 @@ activity = "1.9.3"
 constraintlayout = "2.2.0"
 tikxml-annotation = "0.8.13"
 tikxml-core = "0.8.15"
+retrofit = "2.9.0"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -25,6 +26,7 @@ androidx-constraintlayout = { group = "androidx.constraintlayout", name = "const
 tikxml-annotation = {group = "com.tickaroo.tikxml", name = "annotation", version.ref  = "tikxml-annotation"}
 tikxml-core = {group = "com.tickaroo.tikxml", name = "core", version.ref="tikxml-core"}
 tikxml-processor = {group = "com.tickaroo.tikxml", name = "processor"}
+retrofit = {group = "com.squareup.retrofit2", name = "retrofit", version.ref ="retrofit"}
 
 
 [plugins]

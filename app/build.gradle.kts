@@ -45,7 +45,7 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
     implementation(libs.tikxml.annotation)
     implementation(libs.tikxml.core)
-
+    implementation(libs.retrofit)
     annotationProcessor(libs.tikxml.processor)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
